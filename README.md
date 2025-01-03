@@ -59,11 +59,11 @@ I’m always learning and experimenting with new technologies. If you're interes
 
 I am proud to hold the following **AWS Certifications**:
 
-![AWS Certified Solutions Architect – Professional]([https://d1.awsstatic.com/training-and-certification/Cert_Logo_Solutions_Architect_Professional_200x200.png](https://www.credly.com/badges/d6e87bd8-00ae-4ed3-8a46-1a6db15efb4b))
+![AWS Certified Solutions Architect – Professional]([https://images.credly.com/size/200x200/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png](https://www.credly.com/badges/d6e87bd8-00ae-4ed3-8a46-1a6db15efb4b))
 
-![AWS Certified DevOps Engineer - Professional]([https://d1.awsstatic.com/training-and-certification/Cert_Logo_DevOps_Engineer_Professional_200x200.png](https://www.credly.com/badges/23b1f795-6d59-42af-9ee5-7b04e388c773))
+![AWS Certified DevOps Engineer - Professional]([https://images.credly.com/size/200x200/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png](https://www.credly.com/badges/23b1f795-6d59-42af-9ee5-7b04e388c773))
 
-![AWS Certified Developer – Associate]([https://d1.awsstatic.com/training-and-certification/Cert_Logo_Developer_Associate_200x200.png](https://www.credly.com/badges/9fd394fc-561d-40e9-84d5-215096ad44db))
+![AWS Certified Developer – Associate]([https://images.credly.com/size/200x200/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png](https://www.credly.com/badges/9fd394fc-561d-40e9-84d5-215096ad44db))
 
 These certifications validate my knowledge and skills in deploying, managing, and operating workloads on AWS, and they drive my commitment to using best practices in cloud computing.
 
